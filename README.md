@@ -41,3 +41,9 @@ Setelah proses klasifikasi selesai, bot akan mengirimkan hasil prediksi beserta 
    - Merpati (96.4%)
    - Ayam (91.7%)
    - Bebek (98.2%)
+
+---
+
+## 📄 Lisensi
+
+Proyek ini menggunakan **MIT License** sehingga kode dapat digunakan, dimodifikasi, dan didistribusikan dengan tetap mencantumkan atribusi kepada pembuat.
